@@ -4,5 +4,11 @@
   "main": "index.js",
   "author": "Arnab Bhoumik <arnab.officialcorp@gmail.com>",
   "license": "MIT",
-  "dependencies": {}
+  "scripts": {
+    "start": "nodemon app.js"
+  },  
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
