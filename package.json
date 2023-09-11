@@ -1,0 +1,8 @@
+{
+  "name": "tutorials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Arnab Bhoumik <arnab.officialcorp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
